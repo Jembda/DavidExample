@@ -6,6 +6,7 @@ export default function App() {
     <div className="App">
       <h1>Dawit</h1>
       <h2>My work experience</h2>
+      <p>Experience</p>
     </div>
   );
 }
